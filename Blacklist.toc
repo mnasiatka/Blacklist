@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: Blacklist
+## Notes: Add players to your blacklist which is shared across all of your characters
+## Author: ythogh
+## Version: 0.1
+## SavedVariables: BlacklistPlayerList
+
+core.xml
+core.lua
